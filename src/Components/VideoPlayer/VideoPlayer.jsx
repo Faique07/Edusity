@@ -1,7 +1,7 @@
 import React, { useRef } from 'react';
 import './VideoPlayer.css';
 import video from '../../assets/college-video.mp4';
-import { useResolvedPath } from 'react-router-dom';
+// import { useResolvedPath } from 'react-router-dom';
 
 const VideoPlayer = ({ playState,setPlayState }) => {
 
